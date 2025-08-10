@@ -1,5 +1,6 @@
 # Hi, I'm John
 🎓 **Computer Science undergraduate** at the Federal Institute of Education, Science, and Technology of Ceará (IFCE) -- 4th semester.
+
 💻 **Backend developer** working with C, C#, Node.js, Python, Docker, and more.  
 
 🚀 Passionate about development, low-level programming, building secure and exploring the foundations of computer science.
