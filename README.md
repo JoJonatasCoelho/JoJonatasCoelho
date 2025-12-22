@@ -1,9 +1,9 @@
 # Hi, I'm John
-🎓 **Computer Science undergraduate** at the Federal Institute of Education, Science, and Technology of Ceará (IFCE) -- 4th semester.
+🎓 **Computer Science undergraduate** at the Federal Institute of Education, Science, and Technology of Ceará (IFCE) -- 5th semester.
 
-💻 **Backend developer** working with C, C#, Node.js, Python, Docker, and more.  
+💻 **Backend developer** working with Java, C, C#, Node.js, Python, Docker, and more.  
 
-🚀 Passionate about development, low-level programming, building secure and exploring the foundations of computer science.
+🚀 Passionate about software engineering, low-level programming, building secure and exploring the foundations of computer science.
 
 
 ---
@@ -41,9 +41,9 @@
 
 ## 📚 Currently Learning
 
-- Advanced Java and Express development  
-- Object-Oriented Programming best practices in C#  
+- Advanced Java with Springboot and Express development  
 - Automated testing strategies for APIs
+- Game development with Godot
 - NixOS environment configuration and package management  
 
 ---
